@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "email": "xasanavalov@gmail.com",
+    "fullName": "Avalov Xasan",
+    "password": "123qwerty45",
+    "image": "Xasan.jpg"
+  },
+  {
+    "id": 2,
+    "email": "xusanavalov@gmail.com",
+    "fullName": "Avalov Xusan",
+    "password": "123qwerty45",
+    "image": "Xusan.jpg"
+  },
+  {
+    "id": 3,
+    "email": "qwerty@gmail.com",
+    "fullName": "cev",
+    "password": "123321",
+    "image": "ff0c6a4a-ddb4-4f66-a241-b21e1356a7ef.jpg"
+  }
+]
